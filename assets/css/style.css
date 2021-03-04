@@ -111,8 +111,8 @@
 }
 
 .navbar {
-  background-color: #335e9b;
-  color:            #FFFFFF;
+  background-color: #d4e6ff;
+  color:            rgb(34, 0, 75);
   font-size:        0.7em;
 }
 
@@ -128,8 +128,8 @@
 }
 
 .navbar ul li a:hover {
-  background:       #c0cde7;
-  color:            rgb(15, 4, 37);
+  background:       #d4e6ff;
+  color:            rgb(34, 0, 75);
   font-size:        1em;
   font-weight:      bold;
 }
