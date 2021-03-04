@@ -9,13 +9,13 @@
 }
 
 .plainclass {
-  color:            white;
-  background-color: #001030;
+  color:            rgb(0, 0, 0);
+  background-color: #c0cde7;
 }
 
 .plainclass1 {
-  color:            white;
-  background-color: black;
+  color:            rgb(0, 0, 0);
+  background-color: rgb(230, 245, 246);
 }
 
 .container {
@@ -27,7 +27,7 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: #eefffe;
 }
 
 .container a:hover {
@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #808080;
+  background:       #e8fffd;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -111,7 +111,7 @@
 }
 
 .navbar {
-  background-color: #222222;
+  background-color: #335e9b;
   color:            #FFFFFF;
   font-size:        0.7em;
 }
@@ -128,8 +128,8 @@
 }
 
 .navbar ul li a:hover {
-  background:       blue;
-  color:            #CCCCCC;
+  background:       #c0cde7;
+  color:            rgb(15, 4, 37);
   font-size:        1em;
   font-weight:      bold;
 }
@@ -137,7 +137,7 @@
 pre {
   border:        3px solid rgba(255, 255, 255, 0.15);
   padding:       10px; 
-  color:         #b5e853;
+  color:         #566fbb;
   font-size:     0.7em; 
   border-radius: 2px;
 }
